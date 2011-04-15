@@ -1,0 +1,9 @@
+.DS_Store
+as3/.actionScriptProperties
+as3/.project
+as3/bin/flextrine-as3.swc
+php/.DS_Store
+php/.buildpath
+php/.project
+php/.settings/
+php/app/.DS_Store
